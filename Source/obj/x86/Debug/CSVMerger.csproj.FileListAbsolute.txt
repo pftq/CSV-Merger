@@ -1,0 +1,58 @@
+C:\ExcelMerger\ExcelMerger\bin\Debug\ExcelMerger.exe
+C:\ExcelMerger\ExcelMerger\bin\Debug\ExcelMerger.pdb
+C:\ExcelMerger\ExcelMerger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ExcelMerger\ExcelMerger\obj\x86\Debug\ExcelMerger.ExcelMerger.resources
+C:\ExcelMerger\ExcelMerger\obj\x86\Debug\ExcelMerger.Properties.Resources.resources
+C:\ExcelMerger\ExcelMerger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ExcelMerger\ExcelMerger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ExcelMerger\ExcelMerger\obj\x86\Debug\ExcelMerger.exe
+C:\ExcelMerger\ExcelMerger\obj\x86\Debug\ExcelMerger.pdb
+C:\ExcelMerger\ExcelMerger\bin\Debug\ExcelMerger.exe.config
+C:\CSVMerger\CSVMerger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSVMerger\CSVMerger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CSVMerger\CSVMerger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CSVMerger\CSVMerger\bin\Debug\CSVMerger.exe.config
+C:\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.Properties.Resources.resources
+C:\CSVMerger\CSVMerger\obj\x86\Debug\ResGen.read.1.tlog
+C:\CSVMerger\CSVMerger\obj\x86\Debug\ResGen.write.1.tlog
+C:\CSVMerger\CSVMerger\bin\Debug\CSVMerger.exe
+C:\CSVMerger\CSVMerger\bin\Debug\CSVMerger.pdb
+C:\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.CSVMerger.resources
+C:\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.exe
+C:\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.pdb
+C:\CSVMerger\CSVMerger\bin\Debug\CSVMerger.exe.manifest
+C:\CSVMerger\CSVMerger\bin\Debug\CSVMerger.application
+C:\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.exe.manifest
+C:\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.application
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\bin\Debug\CSVMerger.exe.config
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.exe
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.pdb
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\bin\Debug\CSVMerger.exe.manifest
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\bin\Debug\CSVMerger.application
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\bin\Debug\CSVMerger.exe
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\bin\Debug\CSVMerger.pdb
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.CSVMerger.resources
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.Properties.Resources.resources
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\ResGen.read.1.tlog
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\ResGen.write.1.tlog
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.exe.manifest
+E:\My Documents\College Stuff\College2012-2Summer\Passport Capital\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.application
+E:\CSVMerger\CSVMerger\bin\Debug\CSVMerger.exe.config
+E:\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.exe
+E:\CSVMerger\CSVMerger\obj\x86\Debug\CSVMerger.pdb
+E:\PFTQ\CSharp\CSVMerger\Source\bin\Debug\CSVMerger.exe.config
+E:\PFTQ\CSharp\CSVMerger\Source\obj\x86\Debug\CSVMerger.exe
+E:\PFTQ\CSharp\CSVMerger\Source\obj\x86\Debug\CSVMerger.pdb
+E:\PFTQ\CSharp\CSVMerger\Source\bin\Debug\CSVMerger.exe.manifest
+E:\PFTQ\CSharp\CSVMerger\Source\bin\Debug\CSVMerger.application
+E:\PFTQ\CSharp\CSVMerger\Source\bin\Debug\CSVMerger.exe
+E:\PFTQ\CSharp\CSVMerger\Source\bin\Debug\CSVMerger.pdb
+E:\PFTQ\CSharp\CSVMerger\Source\obj\x86\Debug\CSVMerger.csprojResolveAssemblyReference.cache
+E:\PFTQ\CSharp\CSVMerger\Source\obj\x86\Debug\CSVMerger.CSVMerger.resources
+E:\PFTQ\CSharp\CSVMerger\Source\obj\x86\Debug\CSVMerger.Properties.Resources.resources
+E:\PFTQ\CSharp\CSVMerger\Source\obj\x86\Debug\CSVMerger.csproj.GenerateResource.Cache
+E:\PFTQ\CSharp\CSVMerger\Source\obj\x86\Debug\CSVMerger.exe.manifest
+E:\PFTQ\CSharp\CSVMerger\Source\obj\x86\Debug\CSVMerger.application
