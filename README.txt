@@ -1,5 +1,6 @@
 CSV Merger
 by pftq
+https://www.pftq.com/pq/creations/list/CSV_Merger/
 July 10, 2012
 
   This is a quick application for merging all CSVs in a folder to one file.  It features a simple user interface and a few extra options, such as choosing the header row and what rows from all files to extract.
